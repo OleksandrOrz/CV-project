@@ -42,10 +42,10 @@ img {
   max-width: 100%;
   border-radius: 5px;
 }
-.col-6 {
+.col-sm-6 {
   text-align: left;
 }
-.col-6 p {
+.col-sm-6 p {
   font-size: 18px;
 }
 p {
@@ -73,5 +73,8 @@ p {
   }
   .lunch {
     display: block;
+  }
+  .col-sm-6 {
+    text-align: center;
   }
 }
